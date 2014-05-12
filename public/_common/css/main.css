@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  margin: 1rem;
+}
+  .content p {
+    color: rgba(30, 30, 30, 1.0);
+  }
